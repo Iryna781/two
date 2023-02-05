@@ -1,0 +1,23 @@
+.button{
+    width: 256px;
+    margin: 30px auto;
+}
+.product-title,
+.product-desc,
+.product-price{
+    text-align: center;
+}
+.btns-wrap{
+    display: flex;
+    justify-content: center;
+}
+.product-title{
+    font-size: 25px;
+}
+.product-desc{
+    font-size: 18px;
+}
+.product-price{
+    font-weight: bold;
+    font-size: 18px;
+}
